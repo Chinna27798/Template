@@ -1,0 +1,677 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+/* secton-one */
+
+.sectionone {
+    background-color: rgb(106, 116, 159);
+    width: 100%;
+    height: 700px;
+}
+
+.com img {
+    height: 50px;
+    width: 50px;
+}
+
+.com {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.com h2 {
+    margin-right: 980px;
+}
+
+/* section-two */
+
+.iphone {
+    margin-top: -500px;
+    margin-left: 150px;
+}
+
+.iphone img {
+    height: 280px;
+    width: 330px;
+}
+
+.mobile {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 850px;
+    margin-top: -300px;
+}
+
+.mobile input {
+    margin-top: 20px;
+    height: 35px;
+    width: 300px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 10px 4px rgba(154, 204, 245, 0.5);
+}
+
+.mobile label {
+    font-size: 12px;
+    color: aliceblue;
+}
+
+.mobile button {
+    margin-top: 20px;
+    height: 25px;
+    width: 100px;
+    background-color: rgb(63, 63, 156);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px 4px rgba(154, 204, 245, 0.5);
+}
+
+/* section-three */
+
+.advan {
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+}
+
+.advance {
+    display: flex;
+    padding: 10px 50px;
+    gap: 10px;
+}
+
+.advan-in {
+    text-align: center;
+}
+
+.advan-in h3 {
+    text-align: center;
+}
+
+.malli-inko-button button {
+    margin-top: 20px;
+    height: 25px;
+    width: 100px;
+    background-color: rgb(110, 110, 172);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px 4px rgba(154, 204, 245, 0.5);
+    margin-left: 680px;
+}
+
+/* section-four */
+
+.features {
+    background-color: rgb(164, 164, 162);
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.fea h2 {
+    padding: 50px;
+    font-size: 45px;
+}
+
+.strong {
+    display: flex;
+}
+
+.tablet {
+    margin-top: -500px;
+    margin-left: 200px;
+}
+
+.tablet img {
+    height: 300px;
+    width: 350px;
+}
+
+.apple {
+    margin-top: -580px;
+    margin-left: 150px;
+}
+
+.apple img {
+    height: 100px;
+    width: 100px;
+}
+
+.ball {
+    margin-top: -580px;
+}
+
+.ball b {
+    font-size: 25px;
+}
+
+.cat img {
+    height: 100px;
+    width: 100px;
+}
+
+.cat {
+    margin-top: -480px;
+    margin-left: 700px;
+}
+
+.dog b {
+    font-size: 25px;
+}
+
+.dog {
+    margin-left: 800px;
+    margin-top: -100px;
+}
+
+.egg img {
+    height: 100px;
+    width: 100px;
+}
+
+.egg {
+    margin-left: 700px;
+}
+
+.fox b {
+    font-size: 25px;
+}
+
+.fox {
+    margin-left: 800px;
+    margin-top: -100px;
+}
+
+.goat img {
+    height: 100px;
+    width: 100px;
+}
+
+.goat {
+    margin-left: 700px;
+}
+
+.hen b {
+    font-size: 25px;
+}
+
+.hen {
+    margin-left: 800px;
+    margin-top: -100px;
+}
+
+/* section-five */
+
+.new-page {
+    height: 500px;
+    width: 100%;
+    background-color: rgb(130, 161, 172);
+    margin-top: 190px;
+    align-items: center;
+    display: flex;
+}
+
+.new-page-one {
+    height: 270px;
+    width: 330px;
+    margin-left: 200px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.new-page-one h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.new-page-one p {
+    text-align: center;
+    padding: 15px 15px;
+    margin-top: -25px;
+}
+
+
+.new-page-two {
+    height: 400px;
+    width: 300px;
+    margin-left: 70px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.new-page-two i {
+    padding: 70px 120px;
+}
+
+.new-page-two h1 {
+    text-align: center;
+    margin-top: -50px;
+}
+
+.new-page-two button {
+    margin-left: 73px;
+    background-color: rgb(157, 157, 194);
+    height: 40px;
+    width: 160px;
+    border: none;
+    border-radius: 10px;
+}
+
+.new-page-three {
+    height: 270px;
+    width: 330px;
+    margin-left: 70px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.new-page-three h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.new-page-three p {
+    text-align: center;
+    padding: 15px 15px;
+    margin-top: -25px;
+}
+
+/* section-six */
+
+.offer {
+    height: 200px;
+    width: 100%;
+    background-color: grey;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.offer h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 40px;
+}
+
+.offer input {
+    height: 30px;
+    width: 320px;
+    border: none;
+    border-radius: 5px;
+}
+
+.offer button {
+    height: 32px;
+    width: 120px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(142, 142, 200);
+}
+
+/* section-seven */
+
+.our h1 {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 40px;
+}
+
+.our img {
+    margin-left: 100px;
+    background-color: rgb(80, 87, 78);
+    height: 500px;
+    width: 600px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.lorem {
+    height: 560px;
+    width: 600px;
+    background-color: rgb(209, 157, 219);
+    margin-left: 760px;
+    margin-top: -550px;
+    border-radius: 10px;
+}
+
+.lorem h1 {
+    padding-left: 70px;
+    padding-top: 50px;
+}
+
+.lorem b {
+    padding-left: 70px;
+}
+
+.lorem p {
+    padding-left: 70px;
+    padding-right: 100px;
+    font-size: 17px;
+}
+
+.lorem img {
+    height: 50px;
+    width: 200px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.lorem i {
+    margin-left: 70px;
+}
+
+/* section-eight */
+
+.bolt {
+    height: 500px;
+    width: 100%;
+    margin-top: 100px;
+    background-color: whitesmoke;
+}
+
+.nut {
+    height: 500px;
+    width: 50%;
+    margin-top: 100px;
+    background-color: rgb(182, 177, 177)
+}
+
+.nut img {
+    height: 700px;
+    width: 700px;
+    margin-top: -100px;
+}
+
+.sink {
+    margin-left: 800px;
+    margin-top: -480px;
+}
+
+.class {
+    margin-left: 900px;
+}
+
+.class img {
+    height: 100px;
+    width: 120px;
+}
+
+.class h3 {
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+.class p {
+    margin-top: -10px;
+    margin-left: 25px;
+}
+
+.class-1 {
+    margin-left: 1180px;
+    margin-top: -150px;
+}
+
+.class-1 img {
+    height: 100px;
+    width: 120px;
+}
+
+.class-1 h3 {
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+.class-1 p {
+    margin-top: -10px;
+    margin-left: 25px;
+}
+
+.hello {
+    margin-left: 1180px;
+    margin-top: -10px;
+}
+
+.hello img {
+    height: 100px;
+    width: 120px;
+}
+
+.hello h3 {
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+.hello p {
+    margin-top: -10px;
+    margin-left: 25px;
+}
+
+.hello-world {
+    margin-left: 900px;
+    margin-top: -150px;
+}
+
+.hello-world img {
+    height: 100px;
+    width: 120px;
+}
+
+.hello-world h3 {
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+.hello-world p {
+    margin-top: -10px;
+    margin-left: 25px;
+}
+
+.selton {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.reviews {
+    height: 300px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+}
+
+.reviews-one {
+    height: 270px;
+    width: 330px;
+    margin-left: 160px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.reviews-one h1 {
+    font-size: 40px;
+    padding: 0px 50px;
+}
+
+.reviews-one h2 {
+    padding: 20px 50px;
+}
+
+.reviews-one p {
+    padding: 0px 50px;
+    margin-top: -25px;
+}
+
+.reviews-one button {
+    margin-left: 50px;
+    height: 35px;
+    width: 220px;
+    background-color: rgb(100, 100, 198);
+    border: none;
+    border-radius: 10px;
+}
+
+.reviews-two {
+    height: 270px;
+    width: 330px;
+    margin-left: 70px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.reviews-two h1 {
+    font-size: 40px;
+    padding: 0px 50px;
+}
+
+.reviews-two h2 {
+    padding: 20px 50px;
+}
+
+.reviews-two p {
+    padding: 0px 50px;
+    margin-top: -25px;
+}
+
+.reviews-two button {
+    margin-left: 50px;
+    height: 35px;
+    width: 220px;
+    background-color: rgb(100, 100, 198);
+    border: none;
+    border-radius: 10px;
+}
+
+.reviews-three {
+    height: 270px;
+    width: 330px;
+    margin-left: 70px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.reviews-three h1 {
+    font-size: 40px;
+    padding: 0px 50px;
+}
+
+.reviews-three h2 {
+    padding: 20px 50px;
+}
+
+.reviews-three p {
+    padding: 0px 50px;
+    margin-top: -25px;
+}
+
+.reviews-three button {
+    margin-left: 50px;
+    height: 35px;
+    width: 220px;
+    background-color: rgb(100, 100, 198);
+    border: none;
+    border-radius: 10px;
+}
+
+.offers {
+    height: 250px;
+    width: 100%px;
+    background-color: rgb(75, 74, 74);
+    margin-top: 50px;
+}
+
+.offers-in {
+    height: 200px;
+    width: 500px;
+    background-color: beige;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: -245px;
+    margin-left: 480px;
+    border-radius: 15px;
+}
+
+.offers-in h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 40px;
+}
+
+.offers-in input {
+    height: 30px;
+    width: 320px;
+    border: none;
+    border-radius: 5px;
+}
+
+.offers-in button {
+    height: 32px;
+    width: 120px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(142, 142, 200);
+}
+
+.map {
+    margin-top: 25px;
+}
+
+.map iframe {
+    height: 600px;
+    width: 800px;
+}
+
+.send {
+    margin-left: 920px;
+    margin-top: -550px;
+}
+
+.send label {
+    font-size: 25px;
+}
+
+.send input {
+    height: 25px;
+    width: 280px;
+    border-color: aqua;
+    border-radius: 5px;
+}
+
+.on-box input {
+    height: 130px;
+    width: 350px;
+    margin-left: 1020px;
+    border-radius: 15px;
+    border-color: aqua;
+}
+
+.button button {
+    margin-top: 20px;
+    margin-left: 1000px;
+    height: 30px;
+    width: 100px;
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+}
+
+.ltd {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(56, 55, 55);
+    margin-top: 100px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.logy {
+    text-align: center;
+    margin-top: -100px;
+    color: white;
+}
